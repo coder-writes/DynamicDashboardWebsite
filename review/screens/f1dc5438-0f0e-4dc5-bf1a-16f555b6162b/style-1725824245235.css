@@ -1,0 +1,105 @@
+#s-f1dc5438-0f0e-4dc5-bf1a-16f555b6162b > #backgroundBox {
+  background-color: #F9F9F9;
+  position: absolute;
+}
+#s-f1dc5438-0f0e-4dc5-bf1a-16f555b6162b > #alignmentBox {
+  position: relative;
+}
+#s-f1dc5438-0f0e-4dc5-bf1a-16f555b6162b #s-Path_1 {
+  position: absolute;
+  width: 364.1838073730469px;
+  height: 265.3371887207031px;
+}
+#s-f1dc5438-0f0e-4dc5-bf1a-16f555b6162b #s-Path_2 {
+  position: absolute;
+  width: 360.78173828125px;
+  height: 255.13201904296875px;
+}
+#s-f1dc5438-0f0e-4dc5-bf1a-16f555b6162b #s-Path_3 {
+  position: absolute;
+  width: 362.78173828125px;
+  height: 257.13201904296875px;
+}
+#s-f1dc5438-0f0e-4dc5-bf1a-16f555b6162b #s-Path_5 {
+  position: absolute;
+  width: 623.273193359375px;
+  height: 77.77923583984375px;
+}
+#s-f1dc5438-0f0e-4dc5-bf1a-16f555b6162b #s-Path_6 {
+  position: absolute;
+  width: 531.2346801757812px;
+  height: 77.77926635742188px;
+}
+#s-f1dc5438-0f0e-4dc5-bf1a-16f555b6162b #s-Path_7 {
+  position: absolute;
+  width: 89.93701171875px;
+  height: 76.92910766601562px;
+}
+#s-f1dc5438-0f0e-4dc5-bf1a-16f555b6162b #s-Path_8 {
+  position: absolute;
+  width: 89.93701171875px;
+  height: 76.92910766601562px;
+}
+#s-f1dc5438-0f0e-4dc5-bf1a-16f555b6162b #s-Path_9 {
+  position: absolute;
+  width: 89.93701171875px;
+  height: 76.92910766601562px;
+}
+#s-f1dc5438-0f0e-4dc5-bf1a-16f555b6162b #s-Path_10 {
+  position: absolute;
+  width: 16.5401611328125px;
+  height: 12.308685302734375px;
+}
+#s-f1dc5438-0f0e-4dc5-bf1a-16f555b6162b #s-Path_11 {
+  position: absolute;
+  width: 16.537841796875px;
+  height: 12.308685302734375px;
+}
+#s-f1dc5438-0f0e-4dc5-bf1a-16f555b6162b #s-Path_12 {
+  position: absolute;
+  width: 18.5401611328125px;
+  height: 14.308746337890625px;
+}
+#s-f1dc5438-0f0e-4dc5-bf1a-16f555b6162b #s-Path_13 {
+  position: absolute;
+  width: 213.98797607421875px;
+  height: 84.71942138671875px;
+  cursor: pointer;
+}
+#s-f1dc5438-0f0e-4dc5-bf1a-16f555b6162b #s-Path_14 {
+  position: absolute;
+  width: 153.98605346679688px;
+  height: 14.986572265625px;
+  cursor: pointer;
+}
+#s-f1dc5438-0f0e-4dc5-bf1a-16f555b6162b #s-Path_15 {
+  position: absolute;
+  width: 1439.99169921875px;
+  height: 2.0001187324523926px;
+}
+#s-f1dc5438-0f0e-4dc5-bf1a-16f555b6162b #s-Path_16 {
+  position: absolute;
+  width: 213.98797607421875px;
+  height: 84.71942138671875px;
+  cursor: pointer;
+}
+#s-f1dc5438-0f0e-4dc5-bf1a-16f555b6162b #s-Path_17 {
+  position: absolute;
+  width: 64.71844482421875px;
+  height: 13.33502197265625px;
+  cursor: pointer;
+}
+.devMobile #jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+.web #simulation {
+  overflow-x: hidden;
+}
+#s-f1dc5438-0f0e-4dc5-bf1a-16f555b6162b > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}
